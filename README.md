@@ -10,10 +10,4 @@ The Data Science Exploratorium is a curated collection of Python-based data scie
 - **Seaborn and Matplotlib**: Create stunning data visualizations to convey your insights effectively.
 - **Machine Learning**: Explore machine learning algorithms and techniques to predict, classify, and analyze data.
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/rajkulhade/Data-Science-Exploratorium.git
 
