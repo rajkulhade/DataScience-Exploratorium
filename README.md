@@ -1,13 +1,6 @@
 # DataScience-Exploratorium
 Welcome to the Data Science Exploratorium! This repository is your gateway to the fascinating world of data science. Whether you're a beginner looking to learn the fundamentals or an experienced data scientist seeking advanced insights, you'll find valuable resources, tutorials, and code samples here to help you on your journey.
 
-## Contents
-
-- [About](#about)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
