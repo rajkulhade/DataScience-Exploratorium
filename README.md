@@ -23,5 +23,5 @@ The Data Science Exploratorium is a curated collection of Python-based data scie
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/Data-Science-Exploratorium.git
+   git clone https://github.com/rajkulhade/Data-Science-Exploratorium.git
 
